@@ -1,4 +1,4 @@
 # DSC180A-Methodology-4
 
-Mohit Gaurav Sridhar
-msridhar@ucsd.edu
+Mohit Gaurav Sridhar and Archit Vijay Pimple
+
